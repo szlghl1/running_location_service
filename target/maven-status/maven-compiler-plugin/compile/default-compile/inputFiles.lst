@@ -1,0 +1,9 @@
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/service/impl/LocationServiceImpl.java
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/domain/UnitInfo.java
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/service/LocationService.java
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/domain/LocationRestRepository.java
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/domain/MedicalInfo.java
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/RunningLocationServiceApp.java
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/restController/RunningBulkUploadController.java
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/domain/Location.java
+/home/vagrant/IdeaProjects/running_location_service/src/main/java/demo/domain/LocationRepository.java
